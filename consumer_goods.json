@@ -1,0 +1,161 @@
+{
+  "_comment": "Dictionnaire des secteurs et sous-categories GDELT GKG. Modifiez les themes (themes) et ajoutez/supprimez des categories selon vos besoins.",
+  "sectors": {
+    "consumer_goods": {
+      "label": "Consumer Goods",
+      "categories": {
+        "alimentation": {
+          "label": "Food & agri-food products",
+          "themes": [
+            "FOOD_STAPLE",
+            "SOC_COUNTERFEITFOOD",
+            "TAX_FNCACT_FASTFOOD_WORKER",
+            "TAX_FNCACT_FAST_FOOD_WORKER",
+            "TAX_FNCACT_FOOD_CRITIC",
+            "TAX_FNCACT_FOOD_INSPECTOR",
+            "TAX_FNCACT_FOOD_SCIENTIST",
+            "TAX_FNCACT_FOOD_VENDOR",
+            "TAX_FOODSTAPLES_AMARANTH",
+            "TAX_FOODSTAPLES_BANANAS",
+            "TAX_FOODSTAPLES_BARLEY",
+            "TAX_FOODSTAPLES_BREAD",
+            "TAX_FOODSTAPLES_BREADNUT",
+            "TAX_FOODSTAPLES_BREADNUTS",
+            "TAX_FOODSTAPLES_CASSAVA",
+            "TAX_FOODSTAPLES_CEREAL",
+            "TAX_FOODSTAPLES_CEREALS",
+            "TAX_FOODSTAPLES_COCONUT_OIL",
+            "TAX_FOODSTAPLES_CORN",
+            "TAX_FOODSTAPLES_EGGS",
+            "TAX_FOODSTAPLES_GRAIN",
+            "TAX_FOODSTAPLES_GRAINS",
+            "TAX_FOODSTAPLES_LEGUMES",
+            "TAX_FOODSTAPLES_MAIZE",
+            "TAX_FOODSTAPLES_MEAT",
+            "TAX_FOODSTAPLES_MILK",
+            "TAX_FOODSTAPLES_MILLET",
+            "TAX_FOODSTAPLES_OLIVE_OIL",
+            "TAX_FOODSTAPLES_PLANTAIN",
+            "TAX_FOODSTAPLES_PLANTAINS",
+            "TAX_FOODSTAPLES_POTATOE",
+            "TAX_FOODSTAPLES_POTATOES",
+            "TAX_FOODSTAPLES_POTATOS",
+            "TAX_FOODSTAPLES_QUINOA",
+            "TAX_FOODSTAPLES_QUINOAS",
+            "TAX_FOODSTAPLES_RICE",
+            "TAX_FOODSTAPLES_RUTABAGAS",
+            "TAX_FOODSTAPLES_SORGHUM",
+            "TAX_FOODSTAPLES_SORGHUMS",
+            "TAX_FOODSTAPLES_SOYBEAN",
+            "TAX_FOODSTAPLES_SOYBEANS",
+            "TAX_FOODSTAPLES_SWEET_POTATO",
+            "TAX_FOODSTAPLES_SWEET_POTATOES",
+            "TAX_FOODSTAPLES_ULLUCO",
+            "TAX_FOODSTAPLES_ULLUCOS",
+            "TAX_FOODSTAPLES_WHEAT",
+            "TAX_FOODSTAPLES_YAMS",
+            "WB_1052_FOOD_SAFETY_STANDARDS_AUDITS_AND_CERTIFICATION",
+            "WB_1058_AGRIBUSINESS",
+            "WB_1618_FOOD_DISTRIBUTION",
+            "WB_180_FOOD_SAFETY",
+            "WB_192_AGRICULTURAL_TRADE",
+            "WB_194_AGRICULTURAL_SUPPLY_CHAIN",
+            "WB_1966_AGRO_PROCESSING",
+            "WB_1970_URBAN_FOOD_SUPPLY",
+            "WB_2179_AGRIBUSINESS",
+            "WB_2559_FOOD_TRADE",
+            "WB_2628_AGRICULTURE_SUPPLY_CHAINS",
+            "WB_2986_AGRIBUSINESS_MANAGEMENT",
+            "WB_2987_AGRIBUSINESS_DEVELOPMENT",
+            "WB_2988_FOOD_POISONING",
+            "WB_646_FOOD_FORTIFICATION"
+          ]
+        },
+        "tabac": {
+          "label": "Tobacco products",
+          "themes": [
+            "WB_1439_TOBACCO_USE_AND_CONTROL"
+          ]
+        },
+        "alcool": {
+          "label": "Alcoholic beverages",
+          "themes": [
+            "WB_1438_ALCOHOL_AND_SUBSTANCE_ABUSE"
+          ]
+        },
+        "textile_habillement": {
+          "label": "Textile, apparel & fashion",
+          "themes": [
+            "TAX_FNCACT_FASHION_MERCHANDISER",
+            "TAX_FNCACT_FASHION_MODEL",
+            "TAX_FNCACT_FASHION_MODELS",
+            "TAX_FNCACT_GARMENT_CUTTER",
+            "TAX_FNCACT_GARMENT_CUTTERS"
+          ]
+        },
+        "cosmetiques": {
+          "label": "Cosmetics & personal care",
+          "themes": [
+            "TAX_FNCACT_COSMETICIAN",
+            "TAX_FNCACT_COSMETICIANS"
+          ]
+        },
+        "automobile": {
+          "label": "Automobiles & vehicles",
+          "themes": [
+            "TAX_FNCACT_AUTOMOBILE_DETAILER",
+            "WB_1227_AUTOMOTIVE_VALUE_CHAIN"
+          ]
+        },
+        "biens_manufactures": {
+          "label": "Manufactured goods (general industry)",
+          "themes": [
+            "TAX_FNCACT_MANUFACTURER",
+            "WB_1281_MANUFACTURING",
+            "WB_2417_DIGITAL_MANUFACTURING",
+            "WB_2630_MANUFACTURING_SECTOR_STRATEGY"
+          ]
+        },
+        "distribution_commerce": {
+          "label": "Retail, wholesale & e-commerce distribution",
+          "themes": [
+            "TAX_FNCACT_GROCER",
+            "TAX_FNCACT_GROCERY_BOY",
+            "TAX_FNCACT_GROCERY_BOYS",
+            "TAX_FNCACT_PERSONAL_SHOPPER",
+            "TAX_FNCACT_RETAILER",
+            "TAX_FNCACT_RETAIL_CLERK",
+            "TAX_FNCACT_RETAIL_MANAGERS",
+            "TAX_FNCACT_RETAIL_SALESPERSON",
+            "TAX_FNCACT_SHOPKEEPER",
+            "TAX_FNCACT_SHOPLIFTER",
+            "TAX_FNCACT_SHOPLIFTERS",
+            "TAX_FNCACT_SHOPWALKER",
+            "TAX_FNCACT_SHOPWALKERS",
+            "TAX_FNCACT_SHOP_ASSISTANT",
+            "TAX_FNCACT_SHOP_ASSISTANTS",
+            "TAX_FNCACT_SHOP_BOY",
+            "TAX_FNCACT_SHOP_BOYS",
+            "TAX_FNCACT_SHOP_CLERK",
+            "TAX_FNCACT_SHOP_CLERKS",
+            "TAX_FNCACT_SHOP_GIRL",
+            "TAX_FNCACT_SHOP_GIRLS",
+            "TAX_FNCACT_SHOP_KEEPER",
+            "TAX_FNCACT_SHOP_MECHANIC",
+            "TAX_FNCACT_SHOP_MECHANICS",
+            "TAX_FNCACT_WHOLESALER",
+            "WB_1017_CONSUMER_PROTECTION_LAW",
+            "WB_1018_ELECTRONIC_COMMERCE_LAW",
+            "WB_1042_TRADEMARKS",
+            "WB_2346_E_COMMERCE_LEGISLATION",
+            "WB_2364_E_COMMERCE_APPLICATIONS",
+            "WB_2454_COUNTERFEIT_GOODS",
+            "WB_2608_TRADE_IN_GOODS",
+            "WB_358_RETAIL_PAYMENTS",
+            "WB_364_CONSUMER_PROTECTION"
+          ]
+        }
+      }
+    }
+  }
+}
