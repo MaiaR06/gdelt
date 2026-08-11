@@ -14,8 +14,8 @@
             "WB_2475_ELECTORAL_SUPPORT_AND_MONITORING"
           ]s
         },
-        "personalities": {
-          "label": "Personalities",
+        "candidate": {
+          "label": "Candidates and non candidates",
           "themes": [
             "TAX_FNCACT_CANDIDATE",
             "TAX_FNCACT_CANDIDATES",
